@@ -3,7 +3,7 @@ package step8_01.techique;
 public class TechniqueEx01 {
 	
 public static void main(String[] args) {
-		//-> 인텔리제이 커밋 연습
+	
 		/*
 		  
 			  # 객체 지향 프로그래밍 ( Object Oriented Programming[OOP] )
