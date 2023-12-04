@@ -1,4 +1,4 @@
-package step8_01.techique;
+package step8_01.technique;
 
 /*
  * 
@@ -87,11 +87,12 @@ class ProductDTO {
 }
 
 
-public class TechniqueEx02 {
+
+public class TechniqueEx02_01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-AccessModifierTest object = new AccessModifierTest();
+
+		AccessModifierTest object = new AccessModifierTest();
 		
 		// private 변수는 클래스 외부에서 접근 불가
 		//object.a = 1000;
@@ -122,7 +123,7 @@ AccessModifierTest object = new AccessModifierTest();
 		System.out.println(productDTO.getPrice());
 		System.out.println(productDTO.getBrandCd());
 		System.out.println(productDTO.getBrandNm());
-
+		
 	}
 
 }

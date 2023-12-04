@@ -1,4 +1,4 @@
-package step8_01.techique;
+package step8_01.technique;
 
 public class TechniqueEx01 {
 	
