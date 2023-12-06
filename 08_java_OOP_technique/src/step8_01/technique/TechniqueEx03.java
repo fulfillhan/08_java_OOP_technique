@@ -37,6 +37,7 @@ public  class TechniqueEx03 {
 		//c1.speedUp();
 		Character.speedUp();
 		
+		
 		Character c2 = new Character();
 		c2.hp = 50;
 		//c2.moveSpeed += 9999;
